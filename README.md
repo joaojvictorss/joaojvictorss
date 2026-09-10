@@ -1,26 +1,40 @@
-# João Victor 👋  
-🎓 Estudante de Analise de desenvolvimento de sistemas
-💻 Desenvolvedor focado em [área:web/backend]  
-📍 São Paulo/Brasil | 📬 joaojvictorss@gmail.com
+# João Victor   
+ Estudante de Engenharia de Software  
+ Foco em Dados & Desenvolvimento  
+ São Paulo/Brasil | 📬 joaojvictorss@gmail.com  
 
-## 🚀 Projetos em Destaque
-criação de um sistema bancário completo, inspirado no app do Bradesco.
-O sistema inclui:
- • Tela de login com autenticação
- • Página inicial com visual moderno
- • Módulo Pix funcional (com transferência entre contas)
- • Validação de saldo antes da transação
- • Verificação de chaves Pix suspeitas (se a chave estiver marcada como suspeita no banco de dados, o sistema impede a transferência e exibe um alerta)
- • Suporte a múltiplos usuários com dados separados
- Tecnologias:
- • Java + Spring Boot
- • HTML, CSS e JavaScript
- • MySQL
- • Git + GitHub
-https://github.com/joaojvictorss/Projeto-A3
-## 🛠️ Tecnologias
-Java
-HTML
+---
+
+##  Projetos em Destaque
+
+### 1. Dashboard Executivo de Vendas (Power BI + MySQL)
+Primeiro projeto do meu portfólio de Dados, focado em análise comercial de e-commerce.
+* **Etapas:** Extração, tratamento e limpeza de dados utilizando **MySQL**, e construção de um painel interativo completo no **Power BI** com foco em faturamento, margem de lucro e comportamento de clientes.
+* **Tecnologias:** Power BI, MySQL, Git & GitHub.
+* [🔗 Ver Repositório do Projeto](https://github.com/joaojvictorss/portfolio-vendas-powerbi) *(substitua pelo link exato deste repositório)*
+
+### 2. Dashboard de Logística e Supply Chain (Power BI + MySQL)
+Segundo projeto do meu portfólio de Dados, focado na análise de eficiência operacional, cálculo de prazos de entrega (*Lead Time* via `DATEDIFF`) e desempenho geográfico de uma operação de varejo.
+* **Tecnologias:** Power BI, MySQL (Views e funções de data), Git & GitHub.
+* [🔗 Ver Repositório do Projeto](https://github.com/joaojvictorss/portfolio-logistica-powerbi) *(substitua pelo link exato deste repositório)*
+
+### 3.  Sistema Bancário Completo (Estilo App Bradesco)
+Sistema integrado focado em Engenharia de Software e lógica de negócios.
+* **Funcionalidades:** 
+  * Tela de login com autenticação e página inicial com visual moderno.
+  * Módulo Pix funcional com transferência entre contas, validação de saldo e verificação de chaves Pix suspeitas bloqueando transações maliciosas via banco de dados.
+  * Suporte a múltiplos usuários com dados separados.
+* **Tecnologias:** Java, Spring Boot, HTML, CSS, JavaScript, MySQL, Git & GitHub.
+* [🔗 Ver Repositório do Projeto](https://github.com/joaojvictorss/Projeto-A3)
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+* **Linguagens & Web:** Java, Spring Boot, HTML, CSS, JavaScript
+* **Dados & BI:** Power BI (DAX), MySQL, SQL Workbench
+* **Controle de Versão:** Git, GitHub
+
+---
+
 ## 📫 Contato
-[LinkedIn](www.linkedin.com/in/joão-victor-silva-dos-santos-226a22335) | Email: joaojvictorss@gmail.com
-
+[LinkedIn](https://www.linkedin.com/in/joão-victor-silva-dos-santos-226a22335) | ✉️ joaojvictorss@gmail.com
