@@ -11,12 +11,12 @@
 Primeiro projeto do meu portfólio de Dados, focado em análise comercial de e-commerce.
 * **Etapas:** Extração, tratamento e limpeza de dados utilizando **MySQL**, e construção de um painel interativo completo no **Power BI** com foco em faturamento, margem de lucro e comportamento de clientes.
 * **Tecnologias:** Power BI, MySQL, Git & GitHub.
-* [🔗 Ver Repositório do Projeto](https://github.com/joaojvictorss/portfolio-vendas-powerbi) *(substitua pelo link exato deste repositório)*
+*  https://github.com/joaojvictorss/projeto-de-analise-vendas-powerbi*
 
 ### 2. Dashboard de Logística e Supply Chain (Power BI + MySQL)
 Segundo projeto do meu portfólio de Dados, focado na análise de eficiência operacional, cálculo de prazos de entrega (*Lead Time* via `DATEDIFF`) e desempenho geográfico de uma operação de varejo.
 * **Tecnologias:** Power BI, MySQL (Views e funções de data), Git & GitHub.
-* [🔗 Ver Repositório do Projeto](https://github.com/joaojvictorss/portfolio-logistica-powerbi) *(substitua pelo link exato deste repositório)*
+* https://github.com/joaojvictorss/logistica-PowerBi.git*
 
 ### 3.  Sistema Bancário Completo (Estilo App Bradesco)
 Sistema integrado focado em Engenharia de Software e lógica de negócios.
@@ -25,7 +25,7 @@ Sistema integrado focado em Engenharia de Software e lógica de negócios.
   * Módulo Pix funcional com transferência entre contas, validação de saldo e verificação de chaves Pix suspeitas bloqueando transações maliciosas via banco de dados.
   * Suporte a múltiplos usuários com dados separados.
 * **Tecnologias:** Java, Spring Boot, HTML, CSS, JavaScript, MySQL, Git & GitHub.
-* [🔗 Ver Repositório do Projeto](https://github.com/joaojvictorss/Projeto-A3)
+* https://github.com/joaojvictorss/Projeto-A3.git
 
 ---
 
@@ -37,4 +37,4 @@ Sistema integrado focado em Engenharia de Software e lógica de negócios.
 ---
 
 ## 📫 Contato
-[LinkedIn](https://www.linkedin.com/in/joão-victor-silva-dos-santos-226a22335) | ✉️ joaojvictorss@gmail.com
+https://www.linkedin.com/in/jo%C3%A3o-victor-silva-dos-santos/ | ✉️ joaojvictorss@gmail.com
